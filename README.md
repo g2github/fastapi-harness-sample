@@ -14,3 +14,5 @@
 
 1. Start the development server by executing the following command in the terminal: `uvicorn app.main:app --reload`
 2. To view the documentation, navigate to `localhost:8000/docs` in your web browser.
+
+## Fin
